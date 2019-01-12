@@ -1,0 +1,11 @@
+{
+    "alloc": {},
+    "config": {
+        "chainID": 72,
+        "homesteadBlock": 0,
+        "eip155Block": 0,
+        "eip158Block": 0
+    },
+    "gasLimit": "0x8880000",
+    "difficulty": "0x20000"
+}
