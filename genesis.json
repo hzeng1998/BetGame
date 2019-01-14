@@ -6,6 +6,6 @@
         "eip155Block": 0,
         "eip158Block": 0
     },
-    "gasLimit": "0x8880000",
+    "gasLimit": "gas:1000258612000000000",
     "difficulty": "0x20000"
 }
