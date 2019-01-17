@@ -11,7 +11,7 @@ contract Bet {
 
     uint public ETHPool;
     address public Maker;
-    uint[] bettingBlocks;
+
     enum State {Open, Close}
     enum BetState {Betted, Clear}
 
